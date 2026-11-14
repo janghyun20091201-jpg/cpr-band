@@ -1,0 +1,16 @@
+{
+  "name": "골든밴드 · CPR 웨어러블 트레이너",
+  "short_name": "골든밴드",
+  "description": "ESP32 손목 기기와 연결해 CPR 깊이·속도·이완·기울기를 실시간으로 교정하는 연습 앱",
+  "lang": "ko",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F2F0EB",
+  "theme_color": "#F2F0EB",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
